@@ -1,0 +1,8 @@
+buildSrc
+.DS_Store
+.gradle
+.idea
+simpleMVC.iml
+simpleMVC.ipr
+simpleMVC.iws
+build/

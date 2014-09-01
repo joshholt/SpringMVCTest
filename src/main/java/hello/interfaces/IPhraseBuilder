@@ -1,0 +1,5 @@
+package hello.interfaces;
+
+public interface IPhraseBuilder {
+     public String buildPhrase(String id, Object... args);
+}
