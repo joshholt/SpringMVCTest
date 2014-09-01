@@ -14,7 +14,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'spring-boot'
 apply plugin: 'war'
-apply plugin: 'GitPropertiesPlugin'
+apply plugin: GitPropertiesPlugin
 
 def archiveDestPath
 
